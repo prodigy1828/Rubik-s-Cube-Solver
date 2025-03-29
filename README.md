@@ -1,7 +1,7 @@
 Rubik's Cube Solver Project
 This is a C++ implementation of a Rubik's Cube solver that uses various search algorithms and pattern databases to efficiently solve Rubik's Cube configurations.
 
-Project Structure
+Project Structure 
 The project is organized into several main components:
 
 Model: Contains different representations of the Rubik's Cube
